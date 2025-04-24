@@ -70,6 +70,7 @@ This project uses SQL to analyze Uber ride data, focusing on key metrics such as
 ## 📊 Tools Used
 
 - **SQL (MySQL/PostgreSQL)**
+- - **DBeaver** (SQL Client for database management and query execution)
 - SQL Functions: `AVG()`, `MAX()`, `MIN()`, `COUNT()`, `ROUND()`
 - SQL Clauses: `GROUP BY`, `HAVING`, `JOIN`, `ORDER BY`, `WHERE`, `SUBQUERIES`
 - Date Functions: `DATE()`, `WEEKDAY()`, `DATE_FORMAT()`
